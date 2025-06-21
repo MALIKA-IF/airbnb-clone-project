@@ -15,3 +15,9 @@ Team Roles:
 -Software developer : Solves any technical problems emerging during the development lifecycle and codes an application
 -Quality assurance (QA) : is to verify whether an application meets the requirements—both functional and non-functional
 -DevOps engineer : Facilitates cooperation between development and operations teams and Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
+
+Technology Stack:
+
+-Django :is a Python web framework that encourages rapid development and clean pragmatic design
+-MySQL  :is a open source that uses SQL for managing databases
+-GraphQL:is the developer-friendly query language for the modern web. It transforms how apps fetch data from an API
