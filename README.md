@@ -21,3 +21,14 @@ Technology Stack:
 -Django :is a Python web framework that encourages rapid development and clean pragmatic design
 -MySQL  :is a open source that uses SQL for managing databases
 -GraphQL:is the developer-friendly query language for the modern web. It transforms how apps fetch data from an API
+
+Database Design :
+
+Users     :-can have more the one booking
+           -effectue one payments
+           -have one reviews
+           -check with more properties
+Properties:-can have more than one user
+Bookings  :can have more than one users
+Reviews   :can have more than one users
+Payments  :can have more than one users
