@@ -39,3 +39,11 @@ user management    : the app can manage every users commandes from reservation t
 property management:the app manage all properties and describe product
 booking system     :the app manage the booking system for every users and properties
 user interfaces    : the app had a very clearly and professional design and interfaces that simplify bookings system for each users
+
+API Security :
+
+authentication:only the authenticated users can access 
+authorization :only the authorized users can access to any API
+rate limiting :Rate limiting helps protect APIs from brute force attacks
+
+*security is crucial for each key area of the project beacause safeguard the project from potential attacks.
