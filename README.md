@@ -47,3 +47,10 @@ authorization :only the authorized users can access to any API
 rate limiting :Rate limiting helps protect APIs from brute force attacks
 
 *security is crucial for each key area of the project beacause safeguard the project from potential attacks.
+
+CI/CD Pipeline :
+
+CI/CD pipeline is an automated process that streamlines the software development lifecycle by integrating code changes, testing them, and deploying them to production. It's crucial for projects because it accelerates delivery, improves software quality, and reduces manual errors. 
+
+the tools that could be used for this are Jenkins,GitHub Actions,Docker
+
