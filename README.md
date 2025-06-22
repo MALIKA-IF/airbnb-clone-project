@@ -28,7 +28,14 @@ Users     :-can have more the one booking
            -effectue one payments
            -have one reviews
            -check with more properties
-Properties:-can have more than one user
+Properties:can have more than one user
 Bookings  :can have more than one users
 Reviews   :can have more than one users
 Payments  :can have more than one users
+
+Feature Breakdown :
+
+user management    : the app can manage every users commandes from reservation to payments
+property management:the app manage all properties and describe product
+booking system     :the app manage the booking system for every users and properties
+user interfaces    : the app had a very clearly and professional design and interfaces that simplify bookings system for each users
